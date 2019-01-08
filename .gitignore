@@ -1,0 +1,5 @@
+/out
+/.idea
+/project
+/target
+/src/main/scala/META-INF/*.MF
