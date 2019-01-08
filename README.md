@@ -256,7 +256,7 @@ kafka只能提供一个分区内的记录的顺序，但是不保证多个分区
 
 #### IDEA配置搭建spark scala开发环境(Windows)
 - 安装jdk8并配置环境变量
-- 安装scala2.11并配置环境变量(本文安装2.11.2)
+- 安装scala2.11并配置环境变量(本文安装2.11.8)
 - 安装IDEA
 - IDEA安装SBT和Scala插件
 - File->New->Project 创建新项目，选择Scala->sbt->next
